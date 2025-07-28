@@ -41,8 +41,8 @@ M = C × (1 + i)^t
 
 As imagens das telas estão disponíveis na pasta [`assets`](./assets).
 
-![Tela Principal](./assets/tela-principal.png)
-![Resultado](./assets/resultado.png)
+![Tela Principal](./assets/image.png)
+
 
 ## Passo a Passo para Executar o Projeto
 
